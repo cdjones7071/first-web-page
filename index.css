@@ -1,0 +1,66 @@
+.header {
+  font-size: 150px;
+  color: white;
+  background-color: rgb(52, 42, 38);
+  text-border: solid 4px black
+}
+
+.headerbody {
+  font-size: 60px;
+  font-family: New Times Roman;
+  text-align: left;
+  color: rgb (0, 24, 33)
+}
+
+.games {
+  font-size: 40px;
+  color: blue;
+  border: solid 2px black;
+}
+
+div {
+  font-family: comic sans MS;
+  color: black;
+  font-size: 30px;
+  margin: 60px;
+  ;
+}
+
+.preorder {
+  font-size: 50px;
+  color: rgb(6, 77, 45);
+  font-family: comic sans MS;
+}
+
+.href {
+  Font-size: 50px;
+  Font-family: comic sans MS;
+  color: red
+}
+
+body {
+  font-size: 20px;
+  text-align: center
+}
+
+.hrefmod {
+  font-size: 50px;
+  font-family: New times roman;
+}
+
+.mainpicture {
+  ;
+  height: 400px;
+  background-color: rgb(52, 42, 38);
+  border: dotted 22px rgb(52, 42, 38)
+}
+
+.bioshock {
+  font-text: 15px;
+  text-align: left;
+  border: solid 2px black
+}
+
+.sales {
+  border: dotted 7px yellow;
+}
